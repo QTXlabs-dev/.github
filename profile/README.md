@@ -10,8 +10,8 @@ We specialize in pioneering innovation for incubated and invested projects acros
 ### 🔹 QuantixAI
 AI-powered investment insights & predictive analytics platform.
 
-- 🌐 Website: [quantixai.io](https://quantixai.io/)
-- 🧠 Tech: Proprietary machine learning and data intelligence models (more coming soon)
+- 🌐 Website: [quantixfinance.xyz](https://quantixfinance.xyz/)
+- 🧠 Tech: Decentralized liquidity pools and institutional-grade lending protocols powered by smart contract technology
 
 ---
 
@@ -19,15 +19,7 @@ AI-powered investment insights & predictive analytics platform.
 Modular, multichain liquidity infrastructure for next-gen DeFi apps.
 
 - 🌐 Website: [deepflow.xyz](https://deepflow.xyz/)
-- 🧪 Testnet: [testnet.deepflow.xyz](https://testnet.deepflow.xyz/)
-
----
-
-### 🔹 Valora
-Decentralized lending protocol optimized for capital efficiency and risk-adjusted yields.
-
-- 🌐 Website: [valoradefi.io](https://valoradefi.io/)
-- 💻 App Preview: [lending.miexs.com](https://lending.miexs.com/)
+- 💻 App Preview: [https://app.deepflow.xyz/](https://app.deepflow.xyz/)
 
 ---
 
