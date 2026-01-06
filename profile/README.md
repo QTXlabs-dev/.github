@@ -7,8 +7,8 @@ We specialize in pioneering innovation for incubated and invested projects acros
 
 ## 🚀 Incubated Projects
 
-### 🔹 QuantixAI
-AI-powered investment insights & predictive analytics platform.
+### 🔹 Quantix Finance 
+Quantix Finance leverages decentralized liquidity pools and institutional-grade lending protocols powered by smart contract technology. The platform offers a secure, transparent, and efficient way for borrowers and lenders to engage in on-chain financial transactions.
 
 - 🌐 Website: [quantixfinance.xyz](https://quantixfinance.xyz/)
 - 🧠 Tech: Decentralized liquidity pools and institutional-grade lending protocols powered by smart contract technology
